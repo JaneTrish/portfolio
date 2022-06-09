@@ -1,3 +1,11 @@
 # Portfolio
 
-Check out my portfolio website here ---> **https://janekavanagh.netlify.app**.
+This repository is a source code of my portfolio website.
+Check it out online here ---> **https://janekavanagh.netlify.app**.
+
+### Stack: 
+
+- ReactJS
+- styled-components
+
+
