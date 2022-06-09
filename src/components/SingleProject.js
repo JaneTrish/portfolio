@@ -149,6 +149,7 @@ const Wrapper = styled.article`
   a {
     color: black;
     transition: 0.3s all linear;
+    text-decoration: underline;
   }
 
   a:hover {
