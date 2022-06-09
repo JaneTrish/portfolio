@@ -19,7 +19,7 @@ export const About = () => {
           <div className='bio'>
             <p>
               My name is Jane and I am a Career Switcher. I discovered my
-              interested for web development in 2020 during the lockdown. It all
+              interest for web development in 2020 during the lockdown. It all
               started with an HTML tutorial. Since then I went a long way from
               reading about static websites to building my first Full-Stack App.
             </p>
