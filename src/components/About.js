@@ -7,6 +7,7 @@ import {
   SiPostgresql,
   SiReact,
   SiNodedotjs,
+  SiMongodb
 } from 'react-icons/si';
 
 export const About = () => {
@@ -60,6 +61,10 @@ export const About = () => {
               <li>
                 <SiPostgresql />
                 PostgreSQL
+              </li>
+              <li>
+                <SiMongodb className ='mongo' />
+                MongoDB
               </li>
             </ul>
             <p>
@@ -126,6 +131,9 @@ const Wrapper = styled.section`
   }
   .css {
     color: #264de4;
+  }
+  .mongo {
+    color: #4db33d;
   }
 `;
 
