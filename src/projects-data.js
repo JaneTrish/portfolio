@@ -34,7 +34,7 @@ export const projects = [
     title: 'To-Do',
     alt: 'open planner next to a laptop',
     description:
-      'A plain JavaScript to-do app that will help you stay organized.',
+      'A plain JavaScript to-do app that will help you stay organised.',
     website: 'https://janetrish.github.io/to-do/',
     github: 'https://github.com/JaneTrish/to-do',
     stack: ['JavaScript', 'CSS3', 'HTML5'],
